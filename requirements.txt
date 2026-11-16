@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+xarray
+netcdf4
+numpy
+pandas
+# only needed for the download scripts
+copernicusmarine
+cdsapi
+# only needed for tests
+pytest
+httpx
